@@ -1,0 +1,8 @@
+node_modules/
+dist/
+work/
+outputs/
+*.log
+*.tmp
+.DS_Store
+work-cutout-preview.jpg
